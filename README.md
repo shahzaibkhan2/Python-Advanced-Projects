@@ -1,2 +1,2 @@
-# Python-Advanced-Bank_Application
-This Repository contains advanced Python project of Bank Application
+# Python-Advanced-projects
+This Repository contains advanced Python projects with advanced methods and modules
